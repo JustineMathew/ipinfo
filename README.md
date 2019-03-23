@@ -1,4 +1,4 @@
-# ipinfo
+# Ipinfo
 This script will convert IP address into country name.
 
 You need to buld the image using the docker file. The code below can be used for building an image
