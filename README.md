@@ -13,9 +13,9 @@ The below code can used to run the image:
  
  The access key can be obtained by folowing the below steps:
  
- >Visit "https://ipstack.com"
- >Click on "Get Free API key"
- >Fill out the details
- >You would get an access key
+ - Visit "https://ipstack.com"
+ - Click on "Get Free API key"
+ - Fill out the details
+ - You would get an access key
  
  
